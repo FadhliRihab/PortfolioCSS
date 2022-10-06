@@ -158,6 +158,7 @@ footer{
     text-align: center;
     text-decoration: solid;
     color: #858585;
+    padding: 15px;
 }
 .work{
     color: #fcfc;
@@ -174,6 +175,7 @@ footer{
     width: 430px;
     padding-left: 60%;
 }
-iframe{
+.youtube{
     align-items: center;
+    padding-left: 8%;
 }
